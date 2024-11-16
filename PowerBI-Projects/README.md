@@ -1,2 +1,4 @@
+![image](https://github.com/user-attachments/assets/b113ac1c-6c4c-4949-8967-ffce80d39417)
+
 This repository contains a collection of **Power BI reports** showcasing various data visualization and analysis techniques.
 Each project demonstrates practical solutions for **real-world business problems**, including sales analysis, marketing performance, and operational insights. The reports are built with a focus on dynamic visuals, interactive filtering, and KPI tracking to drive data-driven decision-making.
