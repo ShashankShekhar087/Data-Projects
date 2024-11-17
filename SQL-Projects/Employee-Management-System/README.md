@@ -9,6 +9,9 @@
 **Table/Schema Structure:**  
 ![image](https://github.com/user-attachments/assets/8324472c-265a-4ef6-91c5-537164dfcc59)  
 
+**USER credential:**
+![image](https://github.com/user-attachments/assets/5d53f31f-91ba-403b-be48-eabcdfb1036e)  
+
 **Table1. Department Table**  
 Question: Create a table named Department to store department information. The table should have the following columns:  
 •DepartmentID (Primary Key)  
