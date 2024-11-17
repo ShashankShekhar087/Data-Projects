@@ -14,7 +14,7 @@ Below is an overview of the main project categories and the tools used:
 
 **1. Institute Analysis:** Planning insights for institutes.  
 **2. Email Campaign:** Performance tracking of email campaigns.  
-**3. Bank Term Deposit:** Showing various parameters for subscriber behavior.
+**3. Bank Term Deposit:** Showing various parameters for subscriber behavior.  
 **4. Superstore Report** Sales performance of a superstore over a given period.
 
 ## 2. SQL-Projects  
