@@ -14,7 +14,7 @@ Each project in this repository addresses unique business use cases, focusing on
 
 ## 🛠️ Tools and Technologies
 
-- **Power BI Desktop & Power BI Service**: Primary tools for creating and publishing reports and dashboards.
+- **Power BI Desktop**: Primary tools for creating and publishing reports _(**Power BI Service for dashboards**)_.
 - **Data Transformation and Modeling**: Power Query Editor, Data Models, and DAX (Data Analysis Expressions).
 - **Techniques Used**:
   - Data Aggregation and Merging
@@ -26,23 +26,23 @@ Each project in this repository addresses unique business use cases, focusing on
 
 ## 📑 Current Projects
 
-1. **[Email Campaign Dashboard](./Email-Campaign-Dashboard)**  
+1. **[Bank Term Report](./Bank-Term-report)**  
+   A detailed report analyzing the term deposits in the banking sector, focusing on customer demographics, deposit amount trends, and term duration.
+
+2. **[Email Campaigns Analysis](./Email-Campaigns)**  
    A comprehensive dashboard to track and analyze email marketing campaign performance. It includes key metrics like open rate, click rate, and campaign type, enabling data-driven decisions.
 
-2. **[Superstore Sales Dashboard](./Superstore-Sales-Dashboard)**  
-   A detailed sales summary dashboard, highlighting trends, product performance, and regional sales insights to aid strategic decision-making.
+3. **[Institute Performance Analysis](./Institute-Analysis)**  
+   An interactive report assessing various metrics related to educational institution performance, such as student enrollment trends, performance analysis, and regional comparisons.
 
-3. **[Employee Attrition Dashboard](./Employee-Attrition-Dashboard)**  
-   A dashboard visualizing key metrics like age, attrition rates, and tenure, designed to assess employee turnover and predict potential future trends.
-
-4. **[School Performance Report](./School-Performance-Report)**  
-   An interactive report assessing various school performance metrics, helping educators and administrators track academic and administrative success.
+4. **[Superstore Sales Report](./SuperstoreReport)**  
+   A detailed sales summary report that highlights trends, product performance, and regional sales insights, enabling businesses to optimize their sales strategy.
 
 (Additional projects will be added as they are developed.)
 
 ## 🌟 Features of This Repository
 
-- Clear, easy-to-understand Power BI reports and dashboards.
+- Clear, easy-to-understand Power BI reports.
 - Organized project folders with datasets and explanatory notes.
 - Focus on optimization and usability, ensuring reports are interactive and user-friendly.
 
