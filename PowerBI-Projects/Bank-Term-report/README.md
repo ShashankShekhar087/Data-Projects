@@ -1,13 +1,11 @@
-# PowerBI_bank_term_deposit_dashboard
-Dashboard in PowerBI for Bank Term Deposit 
-PowerBI Project!- Bank Term Deposit
+# Bank_term_deposit_report
+Report in PowerBI for Bank Term Deposit
 
 # Data Descriptions
-![image](https://github.com/user-attachments/assets/138fa07c-27b3-4d4b-8a2e-4b00d520f4e7)
-
+![image](https://github.com/user-attachments/assets/3b705cfc-332e-4410-aa2e-89123afe482c)
 
 # Problem Statement
-Create a PowerBI Dashboard showing various parameters for attrition in the organization.
+Create a PowerBI Dashboard showing various parameters for subscriber behavior.
 
 1. Which age group people have subscribed the most.
 2. Does married people subscribe more?
@@ -15,8 +13,10 @@ Create a PowerBI Dashboard showing various parameters for attrition in the organ
 4. Which month have seen most of the subscribers.
 5. Overall conclusion from the analysis.
 
-****************************************************Dashboard Visual****************************************************************
-![Bank-Term_Deposit](https://github.com/user-attachments/assets/8133bf5e-5fbc-4448-9a1b-3747061bc83d)
+**Dashboard Visual**
+
+![Bank-Term_Deposit](https://github.com/user-attachments/assets/591cc170-c5a1-4ac4-96de-be1fd4aeddf2)
+
 
 # Interpretation Highlights:
 
